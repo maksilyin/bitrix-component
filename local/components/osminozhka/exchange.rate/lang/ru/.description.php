@@ -1,0 +1,4 @@
+<?php
+$MESS["OSMINOZHKA_DEFAULT_TEMPLATE_NAME"]="Курс валют";
+$MESS["OSMINOZHKA_DEFAULT_TEMPLATE_DESCRIPTION"]="Выводит актуальный курс валют";
+$MESS["OSMINOZHKA_COMPANY_NAME"] = "Оcьминожка";
